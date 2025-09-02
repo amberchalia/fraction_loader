@@ -56,3 +56,5 @@ Check the commit history or sub-project folders for the *latest updates*.
 
 ## Learn More
 Read about my challenges and technical insights on my blog: [rootfu.in](https://rootfu.in).
+
+![Hit Counter](https://hits.sh/github.com/amberchalia/fraction_loader.svg)
