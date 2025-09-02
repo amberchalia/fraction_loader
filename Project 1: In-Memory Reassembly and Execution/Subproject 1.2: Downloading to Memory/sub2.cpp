@@ -24,7 +24,7 @@ int main() {
     const SIZE_T dwInitialCapacity = 4096; // Initial buffer size
 
     // Target configuration
-    LPCWSTR pwszServerName = L"192.168.29.80"; // Server IP/hostname
+    LPCWSTR pwszServerName = L" "; // Server IP/hostname
     INTERNET_PORT nPort = 80;                  // Change to 443 for HTTPS
     LPCWSTR pwszObjectName = L"/file.txt";     // File to fetch
 
