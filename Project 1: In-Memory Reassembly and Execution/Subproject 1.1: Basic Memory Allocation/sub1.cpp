@@ -1,6 +1,3 @@
-// Compile with: x86_64-w64-mingw32-g++ sub1.cpp -o sub1.exe
-
-
 #include <windows.h>
 
 int main(){
