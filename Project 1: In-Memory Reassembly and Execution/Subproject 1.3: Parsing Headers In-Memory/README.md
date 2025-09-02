@@ -1,4 +1,4 @@
-# Sub-Project 1: Memory Allocation Demo
+# Subproject 1.3: Parsing Headers In-Memory
 
 This project shows allocation and deallocation using Windows API, simulating a downloaded data fraction with a 32-byte header. It parses the header to extract an ordinal number and payload, using VirtualAlloc and VirtualFree for memory management. Debug output via OutputDebugStringA helps trace execution, designed for Windows with winhttp.lib.
 
