@@ -19,8 +19,10 @@ The project is organized into main phases, starting with:
   Set up a memory buffer with <ins>`PAGE_EXECUTE_READWRITE` permissions</ins>.
 - **Subproject 1.5: Sequential Fraction Assembly**  
   Developed logic to reassemble payload chunks into a **contiguous executable memory region** using ordinals.
-- **Subprojects 1.6–1.10** (_In Progress_)  
-  Will focus on error handling, execution, memory protection, and testing ~~(not yet started)~~.
+- **Subproject 1.6: Error Handling and Cleanup**  
+  Add try-catch or SEH for memory operations; if any download fails, free all buffers and exit. Implement a cleanup function to zero-out and free memory.  
+- **Subprojects 1.7: Subproject 1.7: Basic In-Memory Execution**  
+  Direct execution of machine code from a memory buffer without using standard process injection or disk-based loading techniques.
 
 ### Future Projects
 - **Project 2: Encryption Layer**  
