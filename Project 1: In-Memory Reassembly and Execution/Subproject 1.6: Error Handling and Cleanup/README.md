@@ -76,12 +76,3 @@ Call `CleanupResources(...)` from your `clean:` label and from the `__except` bl
 The outcome is that your loader should **never crash**. Any failure—a failed download, a failed memory allocation, a network timeout, or even an access violation—should be caught, logged (quietly) to your debug channel, and result in the program exiting cleanly after securely wiping all sensitive memory.
 
 This produces a quiet, professional, and resilient loader.
-
-Check the commit history or sub-project folders for the *latest updates*.
-
----
-
-## Learn More
-Read about my challenges and technical insights on my blog: [rootfu.in](https://rootfu.in).
-
-![Hit Counter](https://hits.sh/github.com/amberchalia/fraction_loader.svg)
