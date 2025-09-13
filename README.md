@@ -56,6 +56,10 @@ Use this code only on systems you **own** or have <ins>explicit permission</ins>
 
 Check the commit history or sub-project folders for the *latest updates*.
 
+## Support
+Enjoying this project? Want to fuel more late-night coding sessions and in-depth blog posts? Support my work by buying me a coffee! ☕  
+👉 [**Support me on Buy Me a Coffee**](https://buymeacoffee.com/amberchalia)
+
 ## Learn More
 Read about my challenges and technical insights on my blog: [rootfu.in](https://rootfu.in).
 
